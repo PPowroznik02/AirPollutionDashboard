@@ -4,7 +4,7 @@
 This project provides a [Real-Time Air Pollution Dashboard](https://agh-ust.maps.arcgis.com/apps/dashboards/9f43cb8a004e487b86a8ce1f40ff52e6) for Poland using data from the [GIOS](https://www.gios.gov.pl/pl/) API. The data is read and processed using a Python script and uploaded to an [ArcGIS](https://www.arcgis.com) server every hour.
 
 ## Usage
-- Edit configuration file 'logowanie.json' provide your ArcGis login and password.
+- Edit the configuration file 'logowanie.json' to provide your ArcGis login and password.
 
 ```
 {
